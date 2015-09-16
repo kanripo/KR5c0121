@@ -1,8 +1,8 @@
 # -*- mode: mandoku-view -*-
-#+TITLE: 沖虛至德眞經解
-#+DATE: 2015-08-28 21:38:31
+#+TITLE: 沖虛至德真經解
+#+DATE: 2015-08-28 21:39:10
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: WITNESS YP-C
 #+PROPERTY: JUAN 0
 
 
