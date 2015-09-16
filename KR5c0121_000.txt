@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 沖虛至德眞經解
-#+DATE: 2015-08-28 21:38:31
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 00:26:35.114994
+#+TITLE: 沖虛至德真經解
+#+PROPERTY: DZID  DZ0730
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，14—802 二十卷 洞神部玉訣類
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
+#+PROPERTY: WITNESS HFL
